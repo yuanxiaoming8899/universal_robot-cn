@@ -49,8 +49,7 @@ catkin_make
 # activate this workspace
 source $HOME/catkin_ws/devel/setup.bash
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd $HOME/catkin_ws/src
-
+  
 # retrieve the sources (replace '$ROS_DISTRO' with the ROS version you are using)
 git clone -b $ROS_DISTRO-devel https://github.com/ros-industrial/universal_robot.git
 
